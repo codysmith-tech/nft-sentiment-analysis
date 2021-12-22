@@ -26,13 +26,16 @@ associated with that.
 This project was made in a Windows OS.
 This project was made in Python 3.8.8.
 This project was made in the Anaconda environment.
+
 *Download Anaconda here*
+
 https://www.anaconda.com/products/individual
 
 Please use this setup for best results.
 
 You will also need access to the Reddit API.
 This video starts with a great how to on this:
+
 https://www.youtube.com/watch?v=NRgfgtzIhBQ
 (Credit to Sentdex / pythonprogramming.net)
 
