@@ -39,9 +39,13 @@ https://www.youtube.com/watch?v=NRgfgtzIhBQ
 Modules needed for this project:
 
   praw
+  
   nltk
+  
   os
+  
   matplotlib
+  
   wordcloud
 
 Once setup is complete, open main.py in Anaconda.
@@ -102,15 +106,21 @@ This is quite the contrast from the NFT subreddit.
 Now, let's do the sentiment analysis.
 
 The output for the NFT subreddit is:
+
   Overall Positive
+  
   Positive: 71.0
+  
   Negative: 31.0
   
 Here we can see that there's a heavy positive sentiment towards NFT's in the NFT subreddit, which is expected.
 
 The output for all of Reddit is:
+
   Overall Positive
+  
   Positive: 73.0
+  
   Negative: 72.0
   
  So, this isn't as negative biased as we might have expected, but looking at the values, it is neck and neck between positive and negative.
