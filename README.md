@@ -126,7 +126,7 @@ The output for all of Reddit is:
  So, this isn't as negative biased as we might have expected, but looking at the values, it is neck and neck between positive and negative.
  And, there's way more negative sentiment than just in the NFT subreddit.
  
- NFT's a relatively new topic for many people (as of now in Decemeber 2021), and there's bound to me mixed opinions as people are introduced to the topic.
+ NFT's are relatively new topic for many people (as of now in Decemeber 2021), and there's bound to me mixed opinions as people are introduced to the topic.
  I think this is shown in the sentiment for all of Reddit.
  
  I am interested in revisiting this topic in the future to see how sentiment changes over time.
